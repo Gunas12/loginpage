@@ -75,7 +75,7 @@ function Login() {
           <div style={{ display: "flex", justifyContent: "space-between" }}>
             <input type="checkbox" id="remember" name="remember" />
             <label htmlFor="remember">Remember me</label>
-            <a href="# ">Forgot password?</a>
+            <a href="/reset_password">Forgot password?</a>
           </div>
         </div>
 

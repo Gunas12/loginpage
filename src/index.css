@@ -166,3 +166,22 @@ button:hover {
   background-color: #ffffff;
   font-size: 16px;
 }
+
+.fgtpswrd {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 30px;
+  border: 1px solid #f6f5f7;
+  padding: 35px;
+  box-shadow: 3px 5px 10px #888888ba;
+}
+.fgtpswrd > input {
+  width: 350px;
+}
+.fgtpswrd > button {
+  width: 200px;
+  font-size: 13px;
+}
